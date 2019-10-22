@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Airport
+
+  Created by Nilesh Prajapati (ZA) on 2019/10/13.
+  Copyright © 2019 Test. All rights reserved.
+*/
+
+// API Manager
+"invalid_url" = "Invalid request url";
+"api_something_went_wrong" = "Something went wrong..!! Please try again..!!";
+"no_record_found" = "No record found.";
+"no_data" = "No data found.";

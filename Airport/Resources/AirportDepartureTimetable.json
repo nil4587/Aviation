@@ -1,0 +1,1273 @@
+[
+  {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:00:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "AMS",
+      "icaoCode": "EHAM",
+      "terminal": null,
+      "gate": "E24",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T11:20:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "KLM",
+      "iataCode": "KL",
+      "icaoCode": "KLM"
+    },
+    "flight": {
+      "number": "644",
+      "iataNumber": "KL644",
+      "icaoNumber": "KLM644"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "2",
+      "gate": "C61",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:30:00.000",
+      "estimatedTime": "2019-10-13T16:30:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "SEA",
+      "icaoCode": "KSEA",
+      "terminal": "S",
+      "gate": "S8",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:54:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "1922",
+      "iataNumber": "DL1922",
+      "icaoNumber": "DAL1922"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "2",
+      "gate": "C65",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:25:00.000",
+      "estimatedTime": "2019-10-13T19:25:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MIA",
+      "icaoCode": "KMIA",
+      "terminal": "S",
+      "gate": "H15",
+      "baggage": "4",
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:37:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "2756",
+      "iataNumber": "DL2756",
+      "icaoNumber": "DAL2756"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "5",
+      "gate": "16",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:02:00.000",
+      "estimatedTime": "2019-10-13T22:02:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MCO",
+      "icaoCode": "KMCO",
+      "terminal": "A",
+      "gate": "4",
+      "baggage": "4",
+      "delay": null,
+      "scheduledTime": "2019-10-14T00:57:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "JetBlue Airways",
+      "iataCode": "B6",
+      "icaoCode": "JBU"
+    },
+    "flight": {
+      "number": "2989",
+      "iataNumber": "B62989",
+      "icaoNumber": "JBU2989"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B48",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:30:00.000",
+      "estimatedTime": "2019-10-13T16:30:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "PWM",
+      "icaoCode": "KPWM",
+      "terminal": null,
+      "gate": "7",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T17:58:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "3465",
+      "iataNumber": "DL3465",
+      "icaoNumber": "DAL3465"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "5",
+      "gate": "3",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:05:00.000",
+      "estimatedTime": "2019-10-13T22:05:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "PSE",
+      "icaoCode": "TJPS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T02:14:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "JetBlue Airways",
+      "iataCode": "B6",
+      "icaoCode": "JBU"
+    },
+    "flight": {
+      "number": "745",
+      "iataNumber": "B6745",
+      "icaoNumber": "JBU745"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "7",
+      "gate": "5",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:35:00.000",
+      "estimatedTime": "2019-10-13T16:35:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "EZE",
+      "icaoCode": "SAEZ",
+      "terminal": "A",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T04:05:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Aerolineas Argentinas",
+      "iataCode": "AR",
+      "icaoCode": "ARG"
+    },
+    "flight": {
+      "number": "1301",
+      "iataNumber": "AR1301",
+      "icaoNumber": "ARG1301"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B47",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:05:00.000",
+      "estimatedTime": "2019-10-13T22:05:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "PWM",
+      "icaoCode": "KPWM",
+      "terminal": null,
+      "gate": "6",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T23:32:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "3437",
+      "iataNumber": "DL3437",
+      "icaoNumber": "DAL3437"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "5",
+      "gate": "4",
+      "baggage": null,
+      "delay": "23",
+      "scheduledTime": "2019-10-13T16:35:00.000",
+      "estimatedTime": "2019-10-13T16:58:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "ORD",
+      "icaoCode": "KORD",
+      "terminal": "2",
+      "gate": "G2",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T18:29:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "JetBlue Airways",
+      "iataCode": "B6",
+      "icaoCode": "JBU"
+    },
+    "flight": {
+      "number": "105",
+      "iataNumber": "B6105",
+      "icaoNumber": "JBU105"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "2",
+      "gate": "C66",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:25:00.000",
+      "estimatedTime": "2019-10-13T19:25:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "SAN",
+      "icaoCode": "KSAN",
+      "terminal": "2",
+      "gate": "37",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:37:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "961",
+      "iataNumber": "DL961",
+      "icaoNumber": "DAL961"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:05:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "CPH",
+      "icaoCode": "EKCH",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T11:40:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Norwegian Air Shuttle",
+      "iataCode": "DY",
+      "icaoCode": "NAX"
+    },
+    "flight": {
+      "number": "7012",
+      "iataNumber": "DY7012",
+      "icaoNumber": "NAX7012"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "8",
+      "gate": "31C",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:35:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "CVG",
+      "icaoCode": "KCVG",
+      "terminal": "3",
+      "gate": "B18",
+      "baggage": "3",
+      "delay": null,
+      "scheduledTime": "2019-10-13T18:51:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iataCode": "AA",
+      "icaoCode": "AAL"
+    },
+    "flight": {
+      "number": "3320",
+      "iataNumber": "AA3320",
+      "icaoNumber": "AAL3320"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "2",
+      "gate": "C62",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:25:00.000",
+      "estimatedTime": "2019-10-13T19:25:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "DTW",
+      "icaoCode": "KDTW",
+      "terminal": "EM",
+      "gate": "A25",
+      "baggage": "10",
+      "delay": null,
+      "scheduledTime": "2019-10-13T21:50:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "1419",
+      "iataNumber": "DL1419",
+      "icaoNumber": "DAL1419"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B55",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:37:00.000",
+      "estimatedTime": "2019-10-13T16:37:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "BUF",
+      "icaoCode": "KBUF",
+      "terminal": null,
+      "gate": "20",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T18:24:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "5095",
+      "iataNumber": "DL5095",
+      "icaoNumber": "DAL5095"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T22:05:00.000",
+      "estimatedTime": "2019-10-13T22:05:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MAD",
+      "icaoCode": "LEMD",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T11:40:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Air Europa",
+      "iataCode": "UX",
+      "icaoCode": "AEA"
+    },
+    "flight": {
+      "number": "92",
+      "iataNumber": "UX92",
+      "icaoNumber": "AEA92"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "8",
+      "gate": "4",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:40:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MXP",
+      "icaoCode": "LIMC",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T06:35:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iataCode": "AA",
+      "icaoCode": "AAL"
+    },
+    "flight": {
+      "number": "198",
+      "iataNumber": "AA198",
+      "icaoNumber": "AAL198"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:25:00.000",
+      "estimatedTime": "2019-10-13T19:25:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "GVA",
+      "icaoCode": "LSGG",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T09:15:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "SWISS",
+      "iataCode": "LX",
+      "icaoCode": "SWR"
+    },
+    "flight": {
+      "number": "23",
+      "iataNumber": "LX23",
+      "icaoNumber": "SWR23"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "8",
+      "gate": "3",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:45:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "FCO",
+      "icaoCode": "LIRF",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T07:15:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iataCode": "AA",
+      "icaoCode": "AAL"
+    },
+    "flight": {
+      "number": "236",
+      "iataNumber": "AA236",
+      "icaoNumber": "AAL236"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "5",
+      "gate": "7",
+      "baggage": null,
+      "delay": "17",
+      "scheduledTime": "2019-10-13T16:48:00.000",
+      "estimatedTime": "2019-10-13T17:05:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "CLT",
+      "icaoCode": "KCLT",
+      "terminal": null,
+      "gate": "A22",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:01:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "JetBlue Airways",
+      "iataCode": "B6",
+      "icaoCode": "JBU"
+    },
+    "flight": {
+      "number": "1119",
+      "iataNumber": "B61119",
+      "icaoNumber": "JBU1119"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:25:00.000",
+      "estimatedTime": "2019-10-13T19:25:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MAN",
+      "icaoCode": "EGCC",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-14T07:15:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Virgin Atlantic",
+      "iataCode": "VS",
+      "icaoCode": "VIR"
+    },
+    "flight": {
+      "number": "128",
+      "iataNumber": "VS128",
+      "icaoNumber": "VIR128"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "1",
+      "gate": "H",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:50:00.000",
+      "estimatedTime": "2019-10-13T16:50:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "PEK",
+      "icaoCode": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": "38",
+      "delay": null,
+      "scheduledTime": "2019-10-14T18:20:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Air China",
+      "iataCode": "CA",
+      "icaoCode": "CCA"
+    },
+    "flight": {
+      "number": "982",
+      "iataNumber": "CA982",
+      "icaoNumber": "CCA982"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "7",
+      "gate": "11",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:55:00.000",
+      "estimatedTime": "2019-10-13T16:55:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "LAX",
+      "icaoCode": "KLAX",
+      "terminal": "6",
+      "gate": "62",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T20:25:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Alaska Airlines",
+      "iataCode": "AS",
+      "icaoCode": "ASA"
+    },
+    "flight": {
+      "number": "407",
+      "iataNumber": "AS407",
+      "icaoNumber": "ASA407"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "2",
+      "gate": "C63",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:29:00.000",
+      "estimatedTime": "2019-10-13T19:29:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MSY",
+      "icaoCode": "KMSY",
+      "terminal": null,
+      "gate": "D2",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T21:57:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "2949",
+      "iataNumber": "DL2949",
+      "icaoNumber": "DAL2949"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "7",
+      "gate": "12",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:55:00.000",
+      "estimatedTime": "2019-10-13T16:55:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "SFO",
+      "icaoCode": "KSFO",
+      "terminal": "2",
+      "gate": "54B",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T20:40:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Alaska Airlines",
+      "iataCode": "AS",
+      "icaoCode": "ASA"
+    },
+    "flight": {
+      "number": "657",
+      "iataNumber": "AS657",
+      "icaoNumber": "ASA657"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B34",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:55:00.000",
+      "estimatedTime": "2019-10-13T16:55:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "LAX",
+      "icaoCode": "KLAX",
+      "terminal": "2",
+      "gate": "24",
+      "baggage": "1",
+      "delay": null,
+      "scheduledTime": "2019-10-13T20:05:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "428",
+      "iataNumber": "DL428",
+      "icaoNumber": "DAL428"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "8",
+      "gate": "32F",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:29:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "ORF",
+      "icaoCode": "KORF",
+      "terminal": null,
+      "gate": "A11B",
+      "baggage": "3",
+      "delay": null,
+      "scheduledTime": "2019-10-13T21:01:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iataCode": "AA",
+      "icaoCode": "AAL"
+    },
+    "flight": {
+      "number": "3749",
+      "iataNumber": "AA3749",
+      "icaoNumber": "AAL3749"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B43",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:55:00.000",
+      "estimatedTime": "2019-10-13T16:55:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "SAN",
+      "icaoCode": "KSAN",
+      "terminal": "2",
+      "gate": "37",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T20:03:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "2685",
+      "iataNumber": "DL2685",
+      "icaoNumber": "DAL2685"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B49",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T16:55:00.000",
+      "estimatedTime": "2019-10-13T16:55:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "BOS",
+      "icaoCode": "KBOS",
+      "terminal": "A",
+      "gate": "A2",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T18:34:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "3436",
+      "iataNumber": "DL3436",
+      "icaoNumber": "DAL3436"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B42",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:29:00.000",
+      "estimatedTime": "2019-10-13T19:29:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "MSP",
+      "icaoCode": "KMSP",
+      "terminal": "1",
+      "gate": "G12",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T21:51:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "1207",
+      "iataNumber": "DL1207",
+      "icaoNumber": "DAL1207"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "5",
+      "gate": "19",
+      "baggage": null,
+      "delay": "23",
+      "scheduledTime": "2019-10-13T16:56:00.000",
+      "estimatedTime": "2019-10-13T17:19:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "SJC",
+      "icaoCode": "KSJC",
+      "terminal": "A",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T20:32:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "JetBlue Airways",
+      "iataCode": "B6",
+      "icaoCode": "JBU"
+    },
+    "flight": {
+      "number": "669",
+      "iataNumber": "B6669",
+      "icaoNumber": "JBU669"
+    },
+    "codeshared": null
+  },
+  {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "terminal": "4",
+      "gate": "B46",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T19:29:00.000",
+      "estimatedTime": "2019-10-13T19:29:00.000",
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "arrival": {
+      "iataCode": "BOS",
+      "icaoCode": "KBOS",
+      "terminal": "A",
+      "gate": "A18",
+      "baggage": null,
+      "delay": null,
+      "scheduledTime": "2019-10-13T21:13:00.000",
+      "estimatedTime": null,
+      "actualTime": null,
+      "estimatedRunway": null,
+      "actualRunway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "icaoCode": "DAL"
+    },
+    "flight": {
+      "number": "2321",
+      "iataNumber": "DL2321",
+      "icaoNumber": "DAL2321"
+    },
+    "codeshared": null
+  }
+]

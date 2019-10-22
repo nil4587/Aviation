@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Y4J-RB-723">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Airport Map View Controller-->
+        <scene sceneID="iOq-AI-FQ6">
+            <objects>
+                <viewController id="Y4J-RB-723" customClass="AirportMapViewController" customModule="Aviation" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PO1-7o-ldO">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" showsScale="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5Ek-pi-RxT">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <connections>
+                                    <outlet property="delegate" destination="Y4J-RB-723" id="PLa-1M-tpx"/>
+                                </connections>
+                            </mapView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="AT8-UA-euf">
+                                <rect key="frame" x="150" y="274" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="9iT-xy-cQx"/>
+                                    <constraint firstAttribute="width" constant="40" id="mEi-uM-s7b"/>
+                                </constraints>
+                                <color key="color" systemColor="systemPinkColor" red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="5Ek-pi-RxT" firstAttribute="top" secondItem="8yU-1h-nK8" secondAttribute="top" id="2nQ-hN-X6V"/>
+                            <constraint firstItem="5Ek-pi-RxT" firstAttribute="bottom" secondItem="8yU-1h-nK8" secondAttribute="bottom" id="GPp-Wb-L2h"/>
+                            <constraint firstItem="5Ek-pi-RxT" firstAttribute="leading" secondItem="8yU-1h-nK8" secondAttribute="leading" id="QSV-6V-sL2"/>
+                            <constraint firstItem="AT8-UA-euf" firstAttribute="centerX" secondItem="PO1-7o-ldO" secondAttribute="centerX" constant="10" id="SZf-Y0-6y0"/>
+                            <constraint firstItem="AT8-UA-euf" firstAttribute="centerY" secondItem="PO1-7o-ldO" secondAttribute="centerY" constant="10" id="Z49-Vw-OEA"/>
+                            <constraint firstItem="5Ek-pi-RxT" firstAttribute="trailing" secondItem="8yU-1h-nK8" secondAttribute="trailing" id="lgz-4B-VEV"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="8yU-1h-nK8"/>
+                    </view>
+                    <connections>
+                        <outlet property="loadingIndicator" destination="AT8-UA-euf" id="Pm4-SH-X27"/>
+                        <outlet property="mapView" destination="5Ek-pi-RxT" id="XgC-9g-ytP"/>
+                        <segue destination="Ts4-SH-gA6" kind="show" identifier="FlightsDepartureSegue" id="qqQ-iZ-QPx"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="t6r-4T-Fwg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="73.125" y="58.098591549295776"/>
+        </scene>
+        <!--FlightsDepartureScreen-->
+        <scene sceneID="rZg-bd-DmQ">
+            <objects>
+                <viewControllerPlaceholder storyboardName="FlightsDepartureScreen" id="Ts4-SH-gA6" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="Tw2-3k-TKC"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="d2j-07-llW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="811" y="-41"/>
+        </scene>
+    </scenes>
+</document>
